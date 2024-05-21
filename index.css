@@ -1,0 +1,45 @@
+#nab{
+    border: none;
+    width: 400px;
+    position: relative;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around
+}
+li{
+    list-style-type: none;
+color: blue;
+}
+
+#headerimg{
+    padding: 20px;
+    width: 300px;
+}
+.img_2{
+    width: 80px;
+    display: flex;
+    position: absolute;
+    right: 30%;
+    top: 13%;
+}
+
+
+#Shopping{
+    display: flex;
+    position: absolute;
+    right: 30%;
+    top: 28%;
+}
+
+#first{
+    color: rgb(240, 85, 111);
+}
+
+#second{
+color: blue;
+}
+
+p{
+  justify-content: space-between;  
+}
